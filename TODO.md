@@ -1,0 +1,5 @@
+- implement [projectname.py](https://github.com/londonhackspace/irccat-commands/blob/master/projectname.py)
+- implement API call to check if name exists
+- should be able to do:
+    - `cargo name -- --bin` to do `cargo new {name} --bin` 
+    - `cargo name -- --vcs none` to do `cargo new {name} --vcs none`
